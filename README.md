@@ -1,5 +1,7 @@
 # Capsule Backend
 
+[![Watch the video](https://img.youtube.com/vi/NrsxkX_xgns/maxresdefault.jpg)](https://youtu.be/NrsxkX_xgns)
+
 The Backend for **Capsule** — a sleek, responsive interface built using **Axum (Rust)**. It connects to the Capsule Frontend (powered by Next.js) and currently works without authentication.
 
 ---
